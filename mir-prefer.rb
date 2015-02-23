@@ -3,8 +3,8 @@ require "formula"
 class MirPrefer < Formula
   homepage "https://github.com/hangelwen/miR-PREFeR"
   head "https://github.com/hangelwen/miR-PREFeR.git"
-  url "https://github.com/hangelwen/miR-PREFeR/archive/v0.19.tar.gz"
-  sha1 "af70c5ea4c68d0918c61259b7ce8c1658e511a17"
+  url "https://github.com/hangelwen/miR-PREFeR/archive/v0.21.tar.gz"
+  sha1 "46f64d1ee01715cdd0215c2cd05997fbc59f0261"
 
   depends_on "samtools"
   depends_on "viennarna"
